@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/what-todo/blob/main/public/project-preview.png?raw=true"></img>
+<img src="https://github.com/prashant2808/what-todo/blob/main/public/project-preview.png?raw=true"></img>
 
 # What Todo - A simple to do list
 
