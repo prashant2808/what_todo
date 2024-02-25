@@ -1,5 +1,3 @@
-<img src="https://github.com/prashant2808/what-todo/blob/main/public/project-preview.png?raw=true"></img>
-
 # What Todo - A simple to do list
 
 What Todo is a simple to-do list application that was created as a practice project to introduce the use of Redux for the first time.
